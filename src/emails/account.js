@@ -1,6 +1,6 @@
 const mail = require("@sendgrid/mail")
 
-const key = "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"
+const key = "G.hBFd-OvTK-Zqxo4Eg.jkjkjk"
 mail.sendApiKey(key)
 
 mail.send({
